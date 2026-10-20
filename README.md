@@ -1,6 +1,6 @@
 # Agent-Zero
 
-A GitHub template for AI-native projects.
+*A GitHub template for AI-native projects*
 
 <img width="300" alt="agent-zero" src="https://github.com/user-attachments/assets/334a7310-94ef-475e-ba9c-561666fcc43b" />
 
