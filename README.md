@@ -1,6 +1,8 @@
 # Agent-Zero
 
-A GitHub template for starting AI-native projects.
+A GitHub template for AI-native projects.
+
+<img width="300" alt="agent-zero" src="https://github.com/user-attachments/assets/334a7310-94ef-475e-ba9c-561666fcc43b" />
 
 ## What you get
 
@@ -13,7 +15,12 @@ A GitHub template for starting AI-native projects.
 ## Using it
 
 1. Click **Use this template** on GitHub, and clone the new repo.
-2. Open it with your coding agent and say: **"Follow SETUP.md."**
+2. Open it with your coding agent and say:
+    ```console
+    ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+    ❯ Follow SETUP.md
+    ──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+    ```
 
 The agent asks a few questions, then sets up the README, `CLAUDE.md`, the sandbox script and the issue templates for your project. `SETUP.md` deletes itself when done. You can also follow it by hand.
 
