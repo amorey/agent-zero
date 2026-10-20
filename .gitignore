@@ -1,0 +1,6 @@
+# Linux build output from scripts/sandbox-dev-setup.sh
+.sandbox-linux/
+
+# Local Claude Code state; only the shared settings are committed
+.claude/*
+!.claude/settings.json
